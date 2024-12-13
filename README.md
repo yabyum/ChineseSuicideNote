@@ -1,4 +1,4 @@
-# ChineseSuicideNote-中国人自杀遗书数据库
+# ChineseSuicideNote-中文自杀遗书数据库
 
 遗书是研究自杀的重要材料，然而目前尚无中文遗书的数据库。
 
